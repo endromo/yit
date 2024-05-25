@@ -1,0 +1,2 @@
+# yit
+Yii Template
